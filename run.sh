@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cargo run -- data/202012.txt -o target/output.txt -d "" -v
+cargo run -- data/mixed.txt -o target/output.txt -d "" -v
