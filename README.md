@@ -25,9 +25,9 @@ ARGS:
 ## Example
 
 ```shell
-$ region-code-formatter data/202012.txt -o target/output.txt -d "" -v
+$ region-code-formatter data/mixed.txt -o target/output.txt -d "" -v
 ```
 
 ## Official Data
 
-[Ministry of Civil Affairs of the People's Republic of China](http://www.mca.gov.cn/article/sj/xzqh/1980/)
+[Ministry of Civil Affairs of the People's Republic of China](https://www.mca.gov.cn/n156/n2679)
